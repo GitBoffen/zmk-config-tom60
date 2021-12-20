@@ -3,7 +3,7 @@ manifest:
     - name: tabbeber
       url-base: https://github.com/tabbeber
   projects:
-    - name: zmk-tom60
+    - name: zmk
       remote: tabbeber
       revision: main
       import: app/west.yml
