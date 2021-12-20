@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: tabbeber
-      revision: main
+      revision: test
       import: app/west.yml
   self:
     path: config
