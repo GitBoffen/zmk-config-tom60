@@ -1,6 +1,7 @@
 # Forkable config repository for the tom60 PCB
 How to use:
 * Fork this repository using the "fork" button in the top right of this web page.
+* Head over to your fork of this repository.
 * Do desired keymap changes in config/tom60.keymap in accordance with https://zmk.dev/docs/codes/ 
 * Commit changes in the bottom of the web page.
 * Head over to the "Actions tab".
