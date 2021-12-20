@@ -8,7 +8,7 @@ How to use:
 * Commit changes in the bottom of the web page.
 ![Remember to commit in order to save and trigger a new firmware build](img/Commitchanges.png)
 * Head over to the "Actions tab".
-![Actions tab is located here](actionstab.png)
+![Actions tab is located here](img/actionstab.png)
   * Wait for the build to finish.
   ![Wait for the build job to complete. Feel free to click the build job now as well](img/waitforbuild.png)
 * Click on the build job and download the resulting firmware.zip under "artifacts".
