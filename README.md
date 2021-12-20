@@ -3,7 +3,7 @@ How to use:
 * Fork this repository using the "fork" button in the top right of this web page.
 ![Fork](img/forkrepo.png)
 * Head over to your fork of this repository.
-* Do desired keymap changes in config/tom60.keymap in accordance with https://zmk.dev/docs/codes/ 
+* Do desired keymap changes in config/tom60.keymap in accordance with https://zmk.dev/docs/codes  
 ![Edit the keymap using the edit button here](img/editkeymap.png)
 * Commit changes in the bottom of the web page.
 ![Remember to commit in order to save and trigger a new firmware build](img/Commitchanges.png)
