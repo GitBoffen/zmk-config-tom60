@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/tabbeber/zmk-tom60
   projects:
     - name: zmk-tom60
-      remote: tabbeber
+      remote: zmk-tom60
       revision: main
       import: app/west.yml
   self:
