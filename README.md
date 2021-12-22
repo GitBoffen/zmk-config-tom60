@@ -14,5 +14,5 @@ How to use:
 * Click on the build job and download the resulting firmware.zip under "artifacts".
 ![No images from this point on. Good luck soldier](img/firmware.png)
 * Extract the uf2-file from the zip.
-* Reset the keyboard either by double pressing the reset button underneath the PCB or by hitting &reset (default MO(3) + R).
+* Reset the keyboard either by double pressing the reset button underneath the PCB or by hitting &boot (default MO(3) + B).
 * Copy the uf2-file to the keyboard.
