@@ -1,5 +1,5 @@
 # Forkable config repository for the tom60 PCB
-How to use:
+## How to use:
 
 Instructions with images below.
 
