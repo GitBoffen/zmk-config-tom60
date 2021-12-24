@@ -14,6 +14,8 @@ Instructions with images below.
 8. Reset the keyboard either by double pressing the reset button underneath the PCB or by hitting &boot (default MO(3) + B).
 9. Copy the uf2-file to the keyboard.
 
+## With images:
+
 1. Fork this repository using the "fork" button in the top right of this web page.
 ![Fork](img/forkrepo.png)
 2. Head over to your fork of this repository.
